@@ -46,6 +46,9 @@ public class EmployeeSalaryCalculator
 		/*
 		All new code must be added between the commented lines below.
 			YOUR CODE STARTS HERE
+
+			test commit no. 1
+
 			YOUR CODE ENDS HERE
 		Test cases execute automatically each time you commit code.
 		You must follow these rules:
